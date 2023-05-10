@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="dropay" size="20.000000 19.961832" />
+    <ImageTarget name="pagi_cycle" size="20.000000 11.250000" />
+  </Tracking>
+</QCARConfig>
